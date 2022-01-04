@@ -9,5 +9,21 @@
   <body>
     <h1>Treinaweb Cursos</h1>
     <p>Escola de desenvolvedores</p>
+    
+    <!-- 
+      Caso não informado o action - O recurso será o arquivo atual, no caso: pagina.html
+      O method padrão é o GET
+     -->
+    <form method="GET">
+      <p>
+        <label for="Curso">Curso:</label>
+        <input type="text" name="curso" id="Curso">
+      </p>
+      <p>
+        <label for="Autor">Autor:</label>
+        <input type="text" name="autor" id="Autor">
+      </p>
+      <input type="submit" value="Enviar">
+    </form>
   </body>
 </html>
