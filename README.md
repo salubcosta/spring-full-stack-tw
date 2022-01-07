@@ -14,24 +14,24 @@ A formação Desenvolvedor Spring Full Stack da TreinaWeb tem como objetivos abo
 
 #### Andamento
 - [X] HTTP - Fundamentos para desenvolvedores (_[Certificado](https://www.treinaweb.com.br/certificado/0VG9IIRLDWWS)_)
-- [ ] HTML5 e CSS3 - Desenvolvimento web Básico
-- [ ] HTML5 e CSS3 - Desenvolvimento web Avançado
-- [ ] JavaScript Básico
-- [ ] JavaScript Intermediário
-- [ ] JavaScript Avançado
-- [ ] JavaScript - Novidades do ES6 (ES2015)
-- [ ] Bootstrap 4 - Fundamentos
-- [ ] Java - Fundamentos para Web
-- [ ] Spring Framework - Fundamentos
-- [ ] Spring Framework - Templates com Thymeleaf
-- [ ] Spring Framework - Spring Data JPA
-- [ ] Spring Framework - Spring Security
-- [ ] Spring Framework - Tópicos Avançados
-- [ ] Spring Framework - Trabalhando com Request e Response
-- [ ] APIs Rest - Fundamentos
-- [ ] Spring Framework - Desenvolvimento de APIs REST
-- [ ] Spring Framework - Autenticação via JWT
-- [ ] Spring Framework - Spring Profiles e Deploy no Heroku
+- [ ] HTML5 e CSS3 - Desenvolvimento web Básico (<meter value="23" max="100" min="0"></meeter>)
+- [ ] HTML5 e CSS3 - Desenvolvimento web Avançado (<meter value="0" max="100" min="0"></meeter>)
+- [ ] JavaScript Básico (<meter value="0" max="100" min="0"></meeter>)
+- [ ] JavaScript Intermediário (<meter value="0" max="100" min="0"></meeter>)
+- [ ] JavaScript Avançado (<meter value="0" max="100" min="0"></meeter>)
+- [ ] JavaScript - Novidades do ES6 (ES2015) (<meter value="0" max="100" min="0"></meeter>)
+- [ ] Bootstrap 4 - Fundamentos (<meter value="0" max="100" min="0"></meeter>)
+- [ ] Java - Fundamentos para Web (<meter value="0" max="100" min="0"></meeter>)
+- [ ] Spring Framework - Fundamentos (<meter value="0" max="100" min="0"></meeter>)
+- [ ] Spring Framework - Templates com Thymeleaf (<meter value="0" max="100" min="0"></meeter>)
+- [ ] Spring Framework - Spring Data JPA (<meter value="0" max="100" min="0"></meeter>)
+- [ ] Spring Framework - Spring Security (<meter value="0" max="100" min="0"></meeter>)
+- [ ] Spring Framework - Tópicos Avançados (<meter value="0" max="100" min="0"></meeter>)
+- [ ] Spring Framework - Trabalhando com Request e Response (<meter value="0" max="100" min="0"></meeter>)
+- [ ] APIs Rest - Fundamentos (<meter value="0" max="100" min="0"></meeter>)
+- [ ] Spring Framework - Desenvolvimento de APIs REST (<meter value="0" max="100" min="0"></meeter>)
+- [ ] Spring Framework - Autenticação via JWT (<meter value="0" max="100" min="0"></meeter>)
+- [ ] Spring Framework - Spring Profiles e Deploy no Heroku (<meter value="0" max="100" min="0"></meeter>)
 
 _Links dos certificados em breve_
 
