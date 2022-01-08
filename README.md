@@ -14,7 +14,7 @@ A formação Desenvolvedor Spring Full Stack da TreinaWeb tem como objetivos abo
 
 #### Andamento
 - [X] HTTP - Fundamentos para desenvolvedores (_[Certificado](https://www.treinaweb.com.br/certificado/0VG9IIRLDWWS)_)
-- [ ] HTML5 e CSS3 - Desenvolvimento web Básico (<img src="https://progress-bar.dev/23">)
+- [ ] HTML5 e CSS3 - Desenvolvimento web Básico ![23%]("https://progress-bar.dev/23")
 - [ ] HTML5 e CSS3 - Desenvolvimento web Avançado (<img src="https://progress-bar.dev/0">)
 - [ ] JavaScript Básico (<img src="https://progress-bar.dev/0">)
 - [ ] JavaScript Intermediário (<img src="https://progress-bar.dev/0">)
