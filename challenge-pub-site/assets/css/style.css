@@ -1,0 +1,154 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Dongle';
+    font-size: 18pt;
+    background-color: rgb(48, 48, 48);
+}
+header {
+    margin: 0;
+    height: 600px;
+    background-image: url(../images/header.jpg);
+}
+
+nav {
+    background-color: rgb(48, 48, 48);
+    margin: 0;
+}
+
+nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li{
+    display: inline-block;
+    line-height: 100%;
+    margin:10px;
+    padding: 10px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: rgb(151, 151, 151);
+}
+nav ul li a:hover{
+    color: rgb(201, 201, 201);
+}
+
+.titulo {
+    margin: 150px auto;
+    width: max-content;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    color: rgb(255, 248, 248);
+    font-size: xx-large;
+}
+
+main {
+    margin: 0px;
+    padding: 0px;
+}
+.sideA{
+    display: flex;
+    flex-direction: column;
+    width: calc(50% - 10px);
+    height: 400px;
+    color: #ddd;
+    padding: 20px;
+    text-align: justify;
+}
+.sideA h2{
+    text-align: center;
+    margin: 0 0 10px 0;
+    color: rgb(112, 98, 240);
+    font-size: 25pt;
+    font-family: 'Mochiy Pop P One';
+}
+
+div.sideA p:nth-child(2){
+    margin: 0px;
+}
+.sideA a{
+    text-align: right;
+    margin: 0px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20pt;
+    color:rgb(112, 98, 240)
+}
+.sideA a:hover{
+    color:rgb(138, 126, 240)
+}
+.sideB {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: calc(50% - 10px);
+    margin: 10px;
+    height: 400px
+}
+.sideB img{
+    border-radius: 20px;
+    width: 80%;
+}
+.container{
+    display: flex;
+    padding: 20px;
+}
+.drinks {
+    background-image: url(https://images.pexels.com/photos/4243302/pexels-photo-4243302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    height: 450px;
+    font-size: 20pt;
+    text-align: justify;
+    display: flex;
+}
+.drinks h2{
+    text-align: center;
+    padding-top: 100px;
+    margin: 0 0 10px 0;
+    color: rgb(112, 98, 240);
+    text-shadow: 1px 1px 1px black;
+    font-size: 50pt;
+    font-family: 'Mochiy Pop P One';
+}
+.drinks p{
+    margin: 10px 200px 0 10px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-shadow: 1px 1px 1px black;
+}
+
+footer{
+    height: 250px;
+    padding:10px;
+    display: flex;
+    align-items: baseline;
+    margin: 0 auto;
+}
+.endereco{ flex-direction: column; width: calc(100% / 3); margin: 10px; color:#ccc; }
+.contato{flex-direction: column; width: calc(100% / 3); margin: 10px; color:#ccc;}
+.funcionamento{flex-direction: column;width: calc(100% / 3); margin: 10px; color:#ccc;}
+
+.endereco p {margin: 0;}
+.contato p,a {margin: 0;text-decoration: none;}
+.funcionamento p {margin: 0;}
+
+.endereco h2 {margin: 0; color: rgb(112, 98, 240);}
+.contato h2 {margin: 0;color: rgb(112, 98, 240);}
+.funcionamento h2 {margin: 0;color: rgb(112, 98, 240);}
+
+.copyright {
+    background-color: rgb(24, 24, 24);
+    margin: 0px;
+    height: 50px;
+    text-align: center;
+}
+.copyright p{
+    padding-top: 10px;
+    color: rgb(109, 105, 105);
+    font-weight: bold;
+}
