@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Dongle';
-    font-size: 18pt;
+    font-size: 20pt;
     background-color: rgb(48, 48, 48);
 }
 header {
@@ -24,6 +24,7 @@ nav ul{
     list-style: none;
     margin: 0;
     padding: 0;
+    font-size: 25pt;
 }
 
 nav ul li{
@@ -41,11 +42,13 @@ nav ul li a:hover{
 }
 
 .titulo {
-    margin: 150px auto;
-    width: max-content;
+    width: 100%;
+    height: 90%;
     font-family: 'Mochiy Pop P One', sans-serif;
     color: rgb(255, 248, 248);
     font-size: xx-large;
+    display: flex;justify-content: center;
+    align-items: center;
 }
 
 main {
@@ -54,7 +57,7 @@ main {
 }
 .sideA{
     display: flex;
-    flex-direction: column;
+    align-items: center;
     width: calc(50% - 10px);
     height: 400px;
     color: #ddd;
@@ -65,7 +68,7 @@ main {
     text-align: center;
     margin: 0 0 10px 0;
     color: rgb(112, 98, 240);
-    font-size: 25pt;
+    font-size: 50pt;
     font-family: 'Mochiy Pop P One';
 }
 
@@ -73,8 +76,7 @@ div.sideA p:nth-child(2){
     margin: 0px;
 }
 .sideA a{
-    text-align: right;
-    margin: 0px;
+    float: right;
     text-decoration: none;
     font-weight: 700;
     font-size: 20pt;
@@ -85,38 +87,37 @@ div.sideA p:nth-child(2){
 }
 .sideB {
     display: flex;
-    flex-direction: column;
+    justify-content: center;
     align-items: center;
+    vertical-align: middle;
     width: calc(50% - 10px);
     margin: 10px;
     height: 400px
 }
+
 .sideB img{
     border-radius: 20px;
     width: 80%;
 }
-.container{
-    display: flex;
-    padding: 20px;
-}
-.drinks {
-    background-image: url(https://images.pexels.com/photos/4243302/pexels-photo-4243302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
-    height: 450px;
-    font-size: 20pt;
-    text-align: justify;
-    display: flex;
-}
-.drinks h2{
-    text-align: center;
-    padding-top: 100px;
-    margin: 0 0 10px 0;
+.sideB h2{
+    text-align: right;
     color: rgb(112, 98, 240);
     text-shadow: 1px 1px 1px black;
     font-size: 50pt;
     font-family: 'Mochiy Pop P One';
 }
+.container{
+    display: flex;
+    padding: 20px;
+}
+
+.drinks {
+    background-image: url(https://images.pexels.com/photos/4243302/pexels-photo-4243302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    font-size: 20pt;
+    display: flex;
+}
+
 .drinks p{
-    margin: 10px 200px 0 10px;
     color: rgb(255, 255, 255);
     font-weight: bold;
     text-shadow: 1px 1px 1px black;
